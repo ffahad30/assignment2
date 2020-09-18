@@ -1,1 +1,2 @@
-# assignment2
+## Assignment 2
+# Git and HTML Introduction
