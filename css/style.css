@@ -1,0 +1,70 @@
+html {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    line-height: 61px;
+
+}
+
+menu {
+    margin: 0;
+    padding-left: 0;
+}
+
+menu li {
+    display: inline;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    line-height: 15px;
+    margin: 0;
+}
+
+body {
+    background-color: mistyrose;
+}
+
+h1, p, a {
+    text-align: center;
+}
+
+h1 {
+    color: darkred;
+    font-family: "Cooper Black", Helvetica, Arial, sans-serif;
+    font-size: 58px;
+    line-height: 91px;
+    margin-bottom: 47px;
+}
+
+p {
+    color: black;
+    font-family: Dubai, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    line-height: 47px;
+    padding: 29px;
+}
+
+a {
+    color: blue;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+
+footer {
+    text-align: center;
+    background-color: darkred;
+    color: white;
+    font-size: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+#wrapper {
+    width: 1208px;
+    margin-left: auto;
+    margin-right: auto;
+}
